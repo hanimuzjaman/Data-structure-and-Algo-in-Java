@@ -1,24 +1,24 @@
-- [ ] Print Hello World
+- [x] Print Hello World
 
-- [ ] Swap two numbers
+- [x] Swap two numbers
 
-- [ ] Check whether a number is even or odd
+- [x] Check whether a number is even or odd
 
-- [ ] Find the largest of three numbers
+- [x] Find the largest of three numbers
 
-- [ ] Reverse a number
+- [x] Reverse a number
 
-- [ ] Check whether a number is palindrome
+- [x] Check whether a number is palindrome
 
-- [ ] Count digits in a number
+- [x] Count digits in a number
 
-- [ ] Find factorial of a number
+- [x] Find factorial of a number
 
 - [ ] Print Fibonacci series
 
 - [ ] Check whether a number is prime
 
-- [ ] Find sum of array elements
+- [x] Find sum of array elements
 
 - [ ] Find maximum element in an array
 
