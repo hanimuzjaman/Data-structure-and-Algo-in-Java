@@ -20,7 +20,7 @@
 
 - [x] Find sum of array elements
 
-- [ ] Find maximum element in an array
+- [x] Find maximum element in an array
 
 - [ ] Reverse an array
 
