@@ -68,7 +68,7 @@
 
 - [ ] Convert binary to decimal
 
-- [ ] Print star patterns
+- [x] Print star patterns
 
 - [ ] Print number patterns
 
