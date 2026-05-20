@@ -14,19 +14,21 @@
 
 - [x] Find factorial of a number
 
-- [ ] Print Fibonacci series
+- [x] Print Fibonacci series
 
-- [ ] Check whether a number is prime
+- [x] Check whether a number is prime
+
+- [x] Create an array and print
 
 - [x] Find sum of array elements
 
 - [x] Find maximum element in an array
 
-- [ ] Reverse an array
+- [x] Reverse an array
 
-- [ ] Perform linear search in an array
+- [x] Perform linear search in an array
 
-- [ ] Find duplicate elements in an array
+- [x] Find duplicate elements in an array
 
 - [ ] Sort an array using Bubble Sort
 
@@ -40,7 +42,7 @@
 
 - [ ] Check whether a number is Armstrong number
 
-- [ ] Print multiplication table of a number
+- [x] Print multiplication table of a number
 
 - [ ] Count vowels and consonants in a string
 
@@ -50,7 +52,7 @@
 
 - [ ] Sort an array in ascending order
 
-- [ ] Find second largest element in an array
+- [x] Find second largest element in an array
 
 - [ ] Remove duplicates from an array
 
@@ -78,11 +80,11 @@
 
 - [ ] Multiply two matrices
 
-- [ ] Find sum of digits of a number
+- [x] Find sum of digits of a number
 
-- [ ] Check whether a number is positive, negative, or zero
+- [x] Check whether a number is positive, negative, or zero
 
-- [ ] Find smallest element in an array
+- [x] Find smallest element in an array
 
 - [ ] Rotate an array
 
