@@ -40,7 +40,7 @@
 
 - [ ] Find LCM of two numbers
 
-- [ ] Check whether a number is Armstrong number
+- [x] Check whether a number is Armstrong number
 
 - [x] Print multiplication table of a number
 
@@ -62,7 +62,7 @@
 
 - [ ] Find missing number in an array
 
-- [ ] Find common elements between two arrays
+- [x] Find common elements between two arrays
 
 - [ ] Convert decimal to binary
 
@@ -86,9 +86,9 @@
 
 - [x] Find smallest element in an array
 
-- [ ] Rotate an array
+- [x] Rotate an array
 
-- [ ] Find intersection of two arrays
+- [x] Find intersection of two arrays
 
 - [ ] Implement stack using array
 
